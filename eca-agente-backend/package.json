@@ -1,0 +1,13 @@
+{
+  "name": "eca-agente-backend",
+  "version": "1.0.0",
+  "description": "Backend del agente conversacional GEMA para Proyecto ECA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
